@@ -1,4 +1,3 @@
-<img width="1424" height="552" alt="imagem6" src="https://github.com/user-attachments/assets/f072963e-e108-4d6f-99f8-33284b6e46e7" />
 # Projeto Laravel - Venda de Veículos
 
 ## Autor
@@ -42,7 +41,14 @@ O projeto utiliza Bootstrap 5 para o front-end e MySQL como banco de dados.
 - **Banco de Dados:** MySQL  
 - **Versionamento:** Git e GitHub  
 
-<img width="1399" height="660" alt="imagem1" src="https://github.com/user-attachments/assets/023e3eac-e6f5-4bb7-8a94-f9252ba02f1c" />
+<img width="1411" height="563" alt="imagem5" src="https://github.com/user-attachments/assets/64cae15f-4247-4d48-884f-14df37231020" />
+<img width="1359" height="713" alt="imagem3" src="https://github.com/user-attachments/assets/a5b1ae7c-f33e-4621-a07e-53545bb96394" />
+<img width="1571" height="742" alt="imagem2" src="https://github.com/user-attachments/assets/98e9c231-4c35-43c4-9740-a906b5fbce59" />
+<img width="1399" height="660" alt="imagem1" src="https://github.com/user-attachments/assets/09a13835-7122-457b-aa3f-7d46e9bd6a85" />
+<img width="1424" height="552" alt="imagem6" src="https://github.com/user-attachments/assets/2a49ac73-0b8a-43bc-8a2c-099fdf141f2f" />
+<img width="1456" height="785" alt="imagem8" src="https://github.com/user-attachments/assets/046b6e23-db12-411e-a3c9-518f169e25da" />
+<img width="1596" height="810" alt="imagem7" src="https://github.com/user-attachments/assets/2086a1d4-fc15-4113-a6b3-3f06214758fa" />
+
 
 
 
