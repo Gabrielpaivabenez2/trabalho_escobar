@@ -7,6 +7,10 @@
 
 ---
 
+usuario e senha
+email = admin@example.com
+senha = senha123
+
 ## Descrição do Projeto
 
 Esse é um sistema de gerenciamento e exibição de veículos usados. oferecendo:
